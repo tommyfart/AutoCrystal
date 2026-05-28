@@ -3,7 +3,7 @@
 	"id": "autocrystal",
 	"version": "${version}",
 	"name": "AutoCrystal",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A minecraft mod that destroys any crystals nearby. (useful for CPVP)",
 	"authors": [
 		"Me!"
 	],
