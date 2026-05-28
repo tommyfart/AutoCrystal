@@ -6,7 +6,7 @@ import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.minecraft.entity.decoration.EndCrystalEntity;
 import net.minecraft.util.Hand;
 
-public class AutoCrystalClient implements ClientModInitializer {
+public class AutoCrystal implements ClientModInitializer {
 
     private static final double RANGE = 4.5;
 
